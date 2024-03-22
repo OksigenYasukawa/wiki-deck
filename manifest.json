@@ -6,9 +6,12 @@
     "content_scripts": [
         {
             "matches": [                
-                "https://*.instagram.com/*",
                 "https://*.minecraftid.fandom.com/*",                
-                "https://*.brutal.fandom.com/*"
+                "https://*.brutal.fandom.com/*",
+                "https://*.twitter.com/*",
+                "https://*.youtube.com/*",
+                "https://*.instagram.com/*",
+                "https://*.open.spotify.com/*"
             ],
             "js": [
                 "app.js"
