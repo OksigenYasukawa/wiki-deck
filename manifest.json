@@ -1,0 +1,22 @@
+{
+    "name": "Wiki Deck",
+    "description": "Untuk memudahkan dalam web Fandom dan keren",
+    "version": "0.0.0.2",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": [                
+                "https://*.instagram.com/*",
+                "https://*.minecraftid.fandom.com/*",                
+                "https://*.brutal.fandom.com/*"
+            ],
+            "js": [
+                "app.js"
+            ]
+        }
+    ],
+    "icons": {
+        "48": "PP.png",
+        "128": "PP.png"
+    }
+}
