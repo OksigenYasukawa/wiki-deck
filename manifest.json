@@ -7,13 +7,7 @@
         {
             "matches": [                
                 "https://*.minecraftid.fandom.com/*",                
-                "https://*.brutal.fandom.com/*",
-                "https://*.twitter.com/*",
-                "https://*.youtube.com/*",
-                "https://*.instagram.com/*",
-                "https://*.open.spotify.com/*",
-                "https://*.web.whatsapp.com/*",
-                "https://*.docs.google.com/*"
+                "https://*.brutal.fandom.com/*"
             ],
             "js": [
                 "app.js"
