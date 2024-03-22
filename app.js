@@ -252,7 +252,7 @@ if (site.includes("twitter.com") || site.includes("youtube.com") || site.include
       text-decoration: none;
     }
 
-    ::-webkit-scrollbar {
+    .wd-menu ::-webkit-scrollbar {
       display: none;
       }
   `);
