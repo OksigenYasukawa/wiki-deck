@@ -262,8 +262,7 @@ if (site.includes("youtube.com")) {
     "id",
     "wd-menu",
     "<a href='https://www.twitter.com/' class='wd-btn'>Twitter</a><a href='https://www.youtube.com/' class='wd-btn'>Youtube</a><br/>" +
-    "<a href='https://www.instagram.com/' class='wd-btn'>Instagram</a><a href='https://open.spotify.com/' class='wd-btn'>Spotify</a>"
-  );
+    "<a href='https://www.instagram.com/' class='wd-btn'>Instagram</a><a href='https://open.spotify.com/' class='wd-btn'>Spotify</a>" +
       "<a href='https://minecraftid.fandom.com/id/wiki/Minecraft_Indonesia_Wiki' class='wd-btn'><i class='fi fi-sr-home'></i></a>" +
       "<a href='https://minecraftid.fandom.com/wiki/MediaWiki:Common.css' class='wd-btn'><i class='fi fi-sr-flower'></i></a>" +
       "<a href='https://minecraftid.fandom.com/wiki/MediaWiki:Wiki-navigation' class='wd-btn'><i class='fi fi-sr-apps'></i></a><br/>" +
