@@ -76,6 +76,7 @@ if (site.includes("brutal.fandom.com")) {
       "<a href='https://brutal.fandom.com/wiki/MediaWiki:Common.css' class='wd-btn'>CSS</a>" +
       "<a href='https://brutal.fandom.com/wiki/Template:Fraksi_Navbox' class='wd-btn'>Fraksi</a>" +
       "<a href='https://brutal.fandom.com/wiki/MediaWiki:Wiki-navigation' class='wd-btn'>Navigation</a>" +
+      "<a href='https://brutal.fandom.com/wiki/Template:Character_Box' class='wd-btn'>Test</a>" +
       "<br/><b>Tools</b>" +
       "<a href='?action=edit' class='wd-btn'>Edit</a>" +
       "<a href='javascript:history.go(-1)'  class='wd-btn'>Back</a>"
