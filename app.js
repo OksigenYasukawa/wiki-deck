@@ -70,7 +70,7 @@ if (site.includes("brutal.fandom.com")) {
       "id",
       "wd-menu",
       "<a href'https://brutal.fandom.com/wiki/Brutal_Wiki' class='wd-btn'>Home</a>" +
-      "<a href='https://brutal.fandom.com/wiki/Template:Character_Box' class='wd-btn'>T Box</a>" +
+      "<a href='https://brutal.fandom.com/wiki/Template:Character_Box' class='wd-btn'>T Boxes</a>" +
       "<a href='https://brutal.fandom.com/wiki/Template:Character_Navbox' class='wd-btn'>T Navbox</a>" +
       "<a href='https://brutal.fandom.com/wiki/Template:Fraksi_Navbox' class='wd-btn'>Fraksi</a>" +
       "<a href='https://brutal.fandom.com/wiki/MediaWiki:Common.css' class='wd-btn'>CSS</a>" +
